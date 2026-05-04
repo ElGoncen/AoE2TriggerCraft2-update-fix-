@@ -1,4 +1,7 @@
 # Trigger Craft II
+MegaDusknoir's original project
+https://github.com/MegaDusknoir/AoE2TriggerCraft2
+
 
 A Scenario GUI Editor in Python, for **Age of Empires 2 Definitive Edition**.
 
@@ -8,11 +11,14 @@ A Scenario GUI Editor in Python, for **Age of Empires 2 Definitive Edition**.
 
 [AoE2TriggerCraft](https://github.com/MegaDusknoir/AoE2TriggerCraft) 是该项目的前身。
 
+actualización del código Python con ayuda de AI
+Updating Python code with the help of AI
+
 ## Usage
 
 For general users, extract zip file and run
 
-[Download](https://github.com/MegaDusknoir/AoE2TriggerCraft2/releases/latest) 
+[Download](https://github.com/ElGoncen/AoE2TriggerCraft2-update-fix/releases/latest) 
 
 Manual (Not yet created)
 
@@ -54,7 +60,7 @@ pip install pyinstaller
 
 Run
 ```
-python release.py
+pyinstaller --noconfirm --onefile --windowed --name "AoE2TriggerCraft2" --collect-all ttkbootstrap --collect-all AoE2ScenarioParser --copy-metadata AoE2ScenarioParser main.py
 ```
 
 ## License
