@@ -1,0 +1,7 @@
+AoE2ScenarioParser
+Pillow
+ttkbootstrap>=1.10.1
+parse
+genieutils-py
+jsonschema
+pyinstaller
