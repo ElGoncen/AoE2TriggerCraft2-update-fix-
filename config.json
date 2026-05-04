@@ -1,0 +1,12 @@
+{
+    "GlobalOptions": {
+        "addDuplicateMark": false,
+        "changeFromPlayerOnly": true,
+        "createBackupWhenOverwritingSource": true,
+        "enableOverwritingSource": false,
+        "includeSource": true,
+        "includeTarget": true,
+        "nameFixFormat": "(p{0})",
+        "nameGaiaFix": "(GAIA)"
+    }
+}
